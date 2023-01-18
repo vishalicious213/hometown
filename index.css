@@ -76,7 +76,6 @@ header h2 {
 
 #chino-header h2 {
     background-color: #e6c200;
-    /* text-shadow: 0 0 1px black; */
 }
 
 #yonkers-header {
@@ -180,6 +179,8 @@ header h2 {
     padding: 0 .5rem;
     box-sizing: border-box;
 }
+
+/* WIDESCREEN */
 
 @media only screen and (min-width: 617px) {
     .activity p {
