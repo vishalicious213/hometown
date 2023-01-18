@@ -132,6 +132,10 @@ header h2 {
     padding: 50px;
 }
 
+#guide-section-chino {
+    background-color: olivedrab;
+}
+
 .guide-content {
     margin: 0 auto;
     display: flex;
