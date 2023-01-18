@@ -60,6 +60,27 @@ header h2 {
     margin-top: 0;
 }
 
+#top-activities {
+    display: flex;
+    justify-content: space-around;
+}
+
+.activity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #activities-section img {
     border-radius: 50%;
+}
+
+.activity h4 {
+    max-width: 160px;
+    margin: 1rem;
+}
+
+.activity p {
+    max-width: 200px;
+    margin: 0;
 }
