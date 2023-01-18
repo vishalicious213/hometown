@@ -105,6 +105,10 @@ header h2 {
     margin: 0 0 2.5rem;
 }
 
+.activity a {
+    color: #457B9D;
+}
+
 /* GUIDE SECTION */
 
 #guide-section {
