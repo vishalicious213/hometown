@@ -145,6 +145,10 @@ header h2 {
     box-shadow: 0px 6px 0px #1D3557;
 }
 
+#guide-chino {
+    background-color: #ffb733;
+}
+
 .guide-content img {
     width: 50%;
     border-radius: .5rem;
