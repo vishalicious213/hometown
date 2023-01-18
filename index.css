@@ -224,6 +224,11 @@ header h2 {
     box-sizing: border-box;
 }
 
+.cities-text {
+    width: 90%;
+    padding: 0 3rem;
+}
+
 /* WIDESCREEN */
 
 @media only screen and (min-width: 617px) {
