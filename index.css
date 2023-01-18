@@ -219,6 +219,11 @@ header h2 {
     max-width: 90%;
 }
 
+#description {
+    max-width: 90%;
+    margin-top: 0;
+}
+
 #cities {
     display: flex;
     justify-content: center;
