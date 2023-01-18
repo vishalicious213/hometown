@@ -18,6 +18,25 @@ img {
     width: 100px;
 }
 
+/* NAVIGATION */
+
+nav {
+    padding: .5rem 0;
+    background-color: #F1FAEE;
+}
+
+button {
+    background-color: transparent;
+    border: 1px solid gainsboro;
+    border-radius: .25rem;
+    width: 5rem;
+}
+
+button:hover {
+    background-color: #d9e1d6;
+    cursor: pointer;
+}
+
 /* HERO SECTION */
 
 header {
