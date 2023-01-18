@@ -66,6 +66,11 @@ header h2 {
     border-radius: .5rem;
 }
 
+#hometown-header {
+    background-image: url("/img/hometown.jpg");
+}
+
+
 #chino-header {
     background-image: url("/img/chino-hills.jpg");
 }
