@@ -83,7 +83,7 @@ header h2 {
 
 .activity p {
     max-width: 200px;
-    margin: 0;
+    margin: 0 0 2.5rem;
 }
 
 /* GUIDE SECTION */
@@ -112,4 +112,10 @@ header h2 {
 
 #guide-text {
     max-width: 200px;
+}
+
+@media only screen and (min-width: 617px) {
+    .activity p {
+        margin: 0;
+    }
 }
