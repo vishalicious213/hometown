@@ -83,6 +83,14 @@ header h2 {
     background-image: url("/img/yonkers.jpg");
 }
 
+#yonkers-header h1 {
+    background-color: #031c5e;
+}
+
+#yonkers-header h2 {
+    background-color: steelblue;
+}
+
 /* ACTIVITIES SECTION */
 
 #activities-section {
@@ -136,6 +144,10 @@ header h2 {
     background-color: olivedrab;
 }
 
+#guide-section-yonkers {
+    background-color: aliceblue;
+}
+
 .guide-content {
     margin: 0 auto;
     display: flex;
@@ -151,6 +163,11 @@ header h2 {
 
 #guide-chino {
     background-color: #ffb733;
+}
+
+#guide-yonkers {
+    background-color: #031c5e;
+    color: white;
 }
 
 .guide-content img {
