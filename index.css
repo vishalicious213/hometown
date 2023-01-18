@@ -63,6 +63,7 @@ header h2 {
 #top-activities {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .activity {
@@ -83,4 +84,32 @@ header h2 {
 .activity p {
     max-width: 200px;
     margin: 0;
+}
+
+/* GUIDE SECTION */
+
+#guide-section {
+    padding: 50px;
+}
+
+#guide-content {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 400px;
+    background-color: #A8DADC;
+    border-radius: .5rem;
+    padding: 1rem;
+    box-shadow: 0px 6px 0px #1D3557;
+}
+
+#guide-content img {
+    width: 50%;
+    border-radius: .5rem;
+}
+
+#guide-text {
+    max-width: 200px;
 }
