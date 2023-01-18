@@ -14,6 +14,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+    width: 100px;
+}
+
+/* HERO SECTION */
+
 header {
     background-image: url("/img/torshov.jpg");
     background-size: cover;
@@ -41,6 +47,19 @@ header h2 {
     border-radius: .5rem;
 }
 
-img {
-    width: 100px;
+/* ACTIVITIES SECTION */
+
+#activities-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #F1FAEE;
+    padding: 2.5rem 0;
+}
+
+#activities-section h3 {
+    margin-top: 0;
+}
+
+#activities-section img {
+    border-radius: 50%;
 }
