@@ -70,6 +70,15 @@ header h2 {
     background-image: url("/img/chino-hills.jpg");
 }
 
+#chino-header h1 {
+    background-color: darkorange;
+}
+
+#chino-header h2 {
+    background-color: #e6c200;
+    /* text-shadow: 0 0 1px black; */
+}
+
 #yonkers-header {
     background-image: url("/img/yonkers.jpg");
 }
@@ -123,7 +132,7 @@ header h2 {
     padding: 50px;
 }
 
-#guide-content {
+.guide-content {
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -136,7 +145,7 @@ header h2 {
     box-shadow: 0px 6px 0px #1D3557;
 }
 
-#guide-content img {
+.guide-content img {
     width: 50%;
     border-radius: .5rem;
 }
