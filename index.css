@@ -101,6 +101,7 @@ header h2 {
 
 #activities-section h3 {
     margin-top: 0;
+    padding: 0 3rem;
 }
 
 #top-activities {
@@ -178,6 +179,28 @@ header h2 {
     max-width: 200px;
     padding: 0 .5rem;
     box-sizing: border-box;
+}
+
+/* CITIES SECTION */
+
+#cities-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #F1FAEE;
+    padding: 2.5rem 0;
+}
+
+#cities {
+    display: flex;
+    justify-content: center;
+}
+
+.city {
+    /* outline: 1px solid red; */
+}
+
+.city img {
+    width: 100%;
 }
 
 /* WIDESCREEN */
