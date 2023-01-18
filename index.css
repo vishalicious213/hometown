@@ -66,6 +66,10 @@ header h2 {
     border-radius: .5rem;
 }
 
+#yonkers-header {
+    background-image: url("/img/yonkers.jpg");
+}
+
 /* ACTIVITIES SECTION */
 
 #activities-section {
