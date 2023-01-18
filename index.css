@@ -66,6 +66,10 @@ header h2 {
     border-radius: .5rem;
 }
 
+#chino-header {
+    background-image: url("/img/chino-hills.jpg");
+}
+
 #yonkers-header {
     background-image: url("/img/yonkers.jpg");
 }
