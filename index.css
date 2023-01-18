@@ -70,6 +70,15 @@ header h2 {
     background-image: url("/img/hometown.jpg");
 }
 
+#hometown-header h1 {
+    background-color: #b39700;
+}
+
+#hometown-header h2 {
+    background-color: gold;
+    text-shadow: 0 0 1px #332b00;
+}
+
 
 #chino-header {
     background-image: url("/img/chino-hills.jpg");
