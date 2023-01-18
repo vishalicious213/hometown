@@ -195,12 +195,24 @@ header h2 {
     justify-content: center;
 }
 
-.city {
-    /* outline: 1px solid red; */
-}
-
 .city img {
     width: 100%;
+}
+
+#chino-pic {
+    border-top: 4px solid white;
+    border-right: 4px solid white;
+    border-bottom: 4px solid white;
+    border-top-right-radius: .5rem;
+    border-bottom-right-radius: .5rem;
+}
+
+#yonkers-pic {
+    border-top: 4px solid white;
+    border-left: 4px solid white;
+    border-bottom: 4px solid white;
+    border-top-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
 }
 
 /* WIDESCREEN */
